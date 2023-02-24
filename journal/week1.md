@@ -1,4 +1,4 @@
-# Week 1 — App Containerization
+# Week 1 — Docker and App Containerization
 
 Docker is a platform that allows developers to build, ship, and run applications in containers. Containers are lightweight, portable, and self-contained environments that can run an application and all its dependencies.
 
@@ -17,9 +17,6 @@ Security: Containers provide a layer of isolation between applications, which im
 Docker is widely used in software development and deployment. It has a large ecosystem of tools and services, including Docker Compose, Docker Swarm, and Docker Hub, which make it easy to manage and deploy containers at scale.
 
 ![image](https://user-images.githubusercontent.com/95552995/221233371-af0685d5-db37-41d0-bd91-12d83c81f63c.png)
-
-
-
 
 ## References
 
