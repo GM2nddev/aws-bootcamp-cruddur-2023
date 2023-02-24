@@ -1,5 +1,26 @@
 # Week 1 — App Containerization
 
+Docker is a platform that allows developers to build, ship, and run applications in containers. Containers are lightweight, portable, and self-contained environments that can run an application and all its dependencies.
+
+With Docker, developers can package an application and its dependencies into a container, which can then be deployed on any infrastructure that supports Docker. This makes it easy to move applications between development, testing, and production environments.
+
+Docker provides a number of benefits, including:
+
+Consistency: Containers provide a consistent environment for applications to run in, regardless of the underlying infrastructure.
+
+Portability: Containers can be run on any infrastructure that supports Docker, making it easy to move applications between different environments.
+
+Efficiency: Containers are lightweight and consume fewer resources than traditional virtual machines, which makes them more efficient to run.
+
+Security: Containers provide a layer of isolation between applications, which improves security by preventing applications from accessing resources they shouldn't.
+
+Docker is widely used in software development and deployment. It has a large ecosystem of tools and services, including Docker Compose, Docker Swarm, and Docker Hub, which make it easy to manage and deploy containers at scale.
+
+![image](https://user-images.githubusercontent.com/95552995/221233371-af0685d5-db37-41d0-bd91-12d83c81f63c.png)
+
+
+
+
 ## References
 
 Good Article for Debugging Connection Refused
