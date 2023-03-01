@@ -1,5 +1,9 @@
 # Week 0 — Billing and Architecture
 
+Set AWS Budget 
+![image](https://user-images.githubusercontent.com/95552995/222227197-057be8f7-1872-4c32-ba20-4ceb8cf6142f.png)
+
+
 Napking Conceptual Diagram
 
 ![Napkin Conceptual Diagram](https://user-images.githubusercontent.com/95552995/221639629-7cfe257f-f380-45a5-8e94-6b8f225e0c4e.jpg)
